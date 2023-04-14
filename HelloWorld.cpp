@@ -2,4 +2,5 @@
 
 int main {
     print "Helloooooooooo"
+    print "Helloooooooooo 2"
 }
